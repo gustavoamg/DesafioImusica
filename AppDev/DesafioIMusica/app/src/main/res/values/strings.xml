@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IMusica Challenge</string>
+    <string name="error_parse_exception">Error parsing expression</string>
+    <string name="error_unexpected_connection_fault">Unexpected connection fault</string>
+    <string name="error_no_internet_connection">No internet connection</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_phone">Phone</string>
+    <string name="action_save">Save</string>
+    <string name="message_name_cant_be_empty">Name can\'t be empty.</string>
+    <string name="messge_phone_cant_be_empty">Phone can\'t be empty</string>
+    <string name="message_changes_were_saved">Changes were saved</string>
+    <string name="message_there_was_an_error_updating">There was an error upating data</string>
+    <string name="message_record_was_successfully_created">The record was successfully created</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_language">Language</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="message_record_successfull_deleted">The record was successfull deleted.</string>
+    <string name="title_remove_record">Remove Record</string>
+    <string name="question_do_you_really_want_to_delete_record">Do you really want to delete this record?</string>
+    <string name="title_create_record">Create Record</string>
+    <string name="title_edit_rcord">Edit Record</string>
+    <string name="title_language_selection">Language Selection</string>
+    <string name="label_confirm">Confirm</string>
+    <string-array name="languages_array">
+        <item>English</item>
+        <item>Portugues</item>
+    </string-array>
+
+</resources>

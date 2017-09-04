@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Desafio IMusica</string>
+    <string name="error_parse_exception">Erro interpretando a expressão</string>
+    <string name="error_unexpected_connection_fault">Falha de conexão inesperada</string>
+    <string name="error_no_internet_connection">Sem conexão com a internet</string>
+    <string name="prompt_name">Nome</string>
+    <string name="prompt_phone">Telefone</string>
+    <string name="action_save">Salvar</string>
+    <string name="message_name_cant_be_empty">Nome não pode ser vazio</string>
+    <string name="messge_phone_cant_be_empty">Telefone não pode ser vazio</string>
+    <string name="message_changes_were_saved">As mudancças foram salvas</string>
+    <string name="message_there_was_an_error_updating">Houve um erro ao autualizar o registro</string>
+    <string name="message_record_was_successfully_created">O Registro foi criado com sucesso</string>
+    <string name="label_delete">Apagar</string>
+    <string name="label_language">Idioma</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="message_record_successfull_deleted">O registro foi apagado com sucesso</string>
+    <string name="title_remove_record">Apagar registro</string>
+    <string name="question_do_you_really_want_to_delete_record">Você realmente quer apagar esse registro?</string>
+    <string name="title_create_record">Criar Registro</string>
+    <string name="title_edit_rcord">Editar Registro</string>
+    <string name="title_language_selection">Seleção de Idioma</string>
+    <string name="label_confirm">Confirmar</string>
+</resources>
